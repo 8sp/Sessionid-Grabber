@@ -1,5 +1,6 @@
 # Sessionid Grabber
-![Screenshot_1](https://user-images.githubusercontent.com/88463490/168335516-aae81368-59f1-4327-9b36-3271160eba08.png)
+
+![Screenshot_6](https://user-images.githubusercontent.com/88463490/168335649-bd560b4a-eb4f-4895-ba18-d0863e8cfbd1.png)
 
 <h3 align="left">Socials:</h3>
 
