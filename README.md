@@ -1,5 +1,6 @@
 <h1 align="center">Sessionid Grabber</h1>
-![Screenshot_6](https://user-images.githubusercontent.com/88463490/168335649-bd560b4a-eb4f-4895-ba18-d0863e8cfbd1.png)
+
+![168335649-bd560b4a-eb4f-4895-ba18-d0863e8cfbd1](https://user-images.githubusercontent.com/88463490/169566482-52da65e7-6d8f-47e0-bfae-cc0c7d9e8bd0.png)
 
 ## REQUIREMENTS
 
