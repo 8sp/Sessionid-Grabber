@@ -8,6 +8,7 @@
 $ pip install os
 $ pip install colorama
 $ pip install requests
+$ pip install -r requierments.txt
 ```
 ## INSTALLATION [Linux]:
 ```
