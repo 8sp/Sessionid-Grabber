@@ -1,3 +1,2 @@
-os-sys=2.1.4
-requests 2.28.1
-colorama=0.4.5
+requests
+colorama
